@@ -1,4 +1,4 @@
-package com.vides.rh.modelo;
+package com.vides.rh.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
